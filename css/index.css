@@ -37,6 +37,7 @@ nav {
       margin-top: 25px;
       height: 150px;
       width: 150px;
+      background-image: file('/illy.jpg');
       display: inline-block;
       background-color: #c4c4c4
     }
@@ -46,6 +47,5 @@ nav {
     position: relative;
   }
   .centermargin {
-width: 1%;
+width: .5%;
   }
-  
